@@ -1,0 +1,1608 @@
+{
+	"folder_history":
+	[
+		"/Users/chenanyang/Projects/Awesome-Site-Collection",
+		"/Users/chenanyang/Projects/S.H.I.E.L.D.",
+		"/Users/chenanyang/Projects"
+	],
+	"last_version": 3124,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 554.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 166.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"fa",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"ss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"file",
+						"File Navigator: Open"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"go",
+						"SublimeBookmarks: Goto Next Bookmark"
+					],
+					[
+						"add",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"show",
+						"SublimeBookmarks: Show All Bookmarks "
+					],
+					[
+						"book",
+						"SublimeBookmarks: Goto Bookmark"
+					],
+					[
+						"boo",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"na",
+						"File Navigator: Open"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 483.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./package.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.lock",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/lihao.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-list.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-edit.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./.gitignore",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-test3.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/sharing-template5.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/block@3x.png",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/.editorconfig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/show.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.js",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection/README.md",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/ActivityController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template-create2.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/PayController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./webpack.config.js",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/delete-modal.vue",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./gulpfile.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/hide-modal.vue"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pay",
+						"src/Shield/WebBundle/Controller/PayController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/chenanyang/.ShadowsocksX/gfwlist.js",
+					"settings":
+					{
+						"buffer_size": 120868,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 166.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"fa",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"ss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"file",
+						"File Navigator: Open"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"go",
+						"SublimeBookmarks: Goto Next Bookmark"
+					],
+					[
+						"add",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"show",
+						"SublimeBookmarks: Show All Bookmarks "
+					],
+					[
+						"book",
+						"SublimeBookmarks: Goto Bookmark"
+					],
+					[
+						"boo",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"na",
+						"File Navigator: Open"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 483.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./package.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.lock",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/lihao.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-list.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-edit.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./.gitignore",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-test3.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/sharing-template5.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/block@3x.png",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/.editorconfig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/show.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.js",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection/README.md",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/ActivityController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template-create2.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/PayController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./webpack.config.js",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/delete-modal.vue",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./gulpfile.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/hide-modal.vue"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"wbond",
+					"sublime"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/chenanyang/.ShadowsocksX/gfwlist.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 120868,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										566,
+										566
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10316.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 382 78 1280 576 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pay",
+						"src/Shield/WebBundle/Controller/PayController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 4185,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 166.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"fa",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"ss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"file",
+						"File Navigator: Open"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"go",
+						"SublimeBookmarks: Goto Next Bookmark"
+					],
+					[
+						"add",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"show",
+						"SublimeBookmarks: Show All Bookmarks "
+					],
+					[
+						"book",
+						"SublimeBookmarks: Goto Bookmark"
+					],
+					[
+						"boo",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"na",
+						"File Navigator: Open"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 483.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./package.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.lock",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/lihao.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-list.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-edit.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./.gitignore",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-test3.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/sharing-template5.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/block@3x.png",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/.editorconfig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/show.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.js",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection/README.md",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/ActivityController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template-create2.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/PayController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./webpack.config.js",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/delete-modal.vue",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./gulpfile.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/hide-modal.vue"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4185,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 52,
+									"edit_settings_view": "user",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 0 111 1280 576 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pay",
+						"src/Shield/WebBundle/Controller/PayController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 4185,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 166.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"fa",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"ss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"file",
+						"File Navigator: Open"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"go",
+						"SublimeBookmarks: Goto Next Bookmark"
+					],
+					[
+						"add",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"show",
+						"SublimeBookmarks: Show All Bookmarks "
+					],
+					[
+						"book",
+						"SublimeBookmarks: Goto Bookmark"
+					],
+					[
+						"boo",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"na",
+						"File Navigator: Open"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 483.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./package.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.lock",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/lihao.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-list.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-edit.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./.gitignore",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-test3.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/sharing-template5.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/block@3x.png",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/.editorconfig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/show.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.js",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection/README.md",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/ActivityController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template-create2.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/PayController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./webpack.config.js",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/delete-modal.vue",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./gulpfile.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/hide-modal.vue"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4185,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 43,
+									"edit_settings_view": "user",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4354.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 132 1280 576 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pay",
+						"src/Shield/WebBundle/Controller/PayController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 25.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"fa",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"ss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"file",
+						"File Navigator: Open"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"go",
+						"SublimeBookmarks: Goto Next Bookmark"
+					],
+					[
+						"add",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"show",
+						"SublimeBookmarks: Show All Bookmarks "
+					],
+					[
+						"book",
+						"SublimeBookmarks: Goto Bookmark"
+					],
+					[
+						"boo",
+						"SublimeBookmarks: Add Bookmark"
+					],
+					[
+						"na",
+						"File Navigator: Open"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 483.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler({'http': 'http://<proxy>:8080'})) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/chenanyang/Projects/S.H.I.E.L.D.",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection"
+			],
+			"file_history":
+			[
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./package.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.lock",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/lihao.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-list.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-edit.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./.gitignore",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template1-test3.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/sharing-template5.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/rule.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/welfare_rule/1604/block@3x.png",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/store_product_list/1608/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/.editorconfig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/show.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/default_show_test/master.js",
+				"/Users/chenanyang/Projects/Awesome-Site-Collection/README.md",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/ActivityController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/offering-template-create2.html",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./src/Shield/WebBundle/Controller/PayController.php",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./webpack.config.js",
+				"/Users/chenanyang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.html.twig",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.scss",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/list.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./composer.json",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/delete-modal.vue",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./gulpfile.js",
+				"/Users/chenanyang/Projects/S.H.I.E.L.D./web/src/pages/admin_feed_list/1606/hide-modal.vue"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/chenanyang/Projects/S.H.I.E.L.D."
+				},
+				{
+					"path": "/Users/chenanyang/Projects/Awesome-Site-Collection"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 194 1280 576 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pay",
+						"src/Shield/WebBundle/Controller/PayController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
