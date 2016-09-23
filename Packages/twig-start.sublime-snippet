@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+{% extends '@ShieldWeb/common_show_base/show.html.twig'%}
+{% set Config = { 'mobile':'true'} %}
+{% block title %}页面标题{% endblock %}
+{% block styles %}
+<link rel="stylesheet" type="text/css" href="./master.scss?rev=@@hash">
+{% endblock %}
+{% block body %}
+Hello Shopal
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript"></script>
+<script type="text/javascript" src="{{Libs.vue}}"></script>
+<script type="text/javascript" src="./master.js?rev=@@hash"></script>
+{% endblock %}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>start</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.twig</scope>
+</snippet>

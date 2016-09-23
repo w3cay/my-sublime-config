@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+import './master.scss';
+import http from 'src/utils/http';
+import Loading from 'src/components/spinner.vue';
+new Vue({
+  el: '#app',
+  data: {},
+  computed: {},
+  components: {},
+  created() {},
+  methods: {},
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>start</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
