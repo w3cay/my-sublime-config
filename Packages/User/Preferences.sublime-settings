@@ -9,7 +9,4 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"theme": "Seti.sublime-theme",
-	"channels": [
-        "~/Library/Application Support/Sublime Text 3/channel_v3.json"
-    ]
 }
